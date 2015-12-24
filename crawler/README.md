@@ -16,6 +16,6 @@
 
 ### Usage
 - Create a MySQL schema with a specified table first. You could find the SQL script in the package.
-- You could run the crawler by executing command `python crawler`.
+- You could run the crawler by executing command `python crawler` at the directory where the package is.
 - You may need to modify some config arguments in \_\_init\_\_.py.
 - The parser module may need to be rewrote by yourself.
